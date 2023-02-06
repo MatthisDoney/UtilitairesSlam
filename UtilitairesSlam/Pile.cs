@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace UtilitairesSlam
+namespace MesOutils
 {
     /// <summary>
     /// Pile pouvant contenir des entiers.
