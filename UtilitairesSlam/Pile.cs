@@ -11,15 +11,13 @@ namespace MesOutils
     /// </summary>
     public class Pile<T>
     {
-        /// <summary>
-        /// Nombre maximum d'élements de la pile
-        /// </summary>
-        private int nbMaxElt;
-
+                
         /// <summary>
         /// Liste contenat les éléments de la pile
         /// </summary>
-        private List<T> elements;
+        private List<T> elements = new List<T>();
+
+       
 
         /// <summary>
         /// Obteint le nombre d'elements actuellement dans la liste 
